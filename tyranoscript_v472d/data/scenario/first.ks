@@ -4,6 +4,8 @@
 
 [stop_keyconfig]
 
+クリックしてスタート[p]
+[playbgm storage="music.ogg"]
 
 ;ティラノスクリプトが標準で用意している便利なライブラリ群
 ;コンフィグ、CG、回想モードを使う場合は必須
